@@ -1,4 +1,4 @@
-# earthquake-prediction
+# Earthquake Prediction
 A Python Prediction use case.
 
 ### Workflow
